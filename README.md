@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Parsh-Pawar
 - 👀 I’m interested in IOT,Web Development...
+- An React Native Developer exploring new things
 - 🌱 I’m currently learning DSA with Cpp...
 - 📫 How to reach me parashrampawar900@gmail.com 
 
